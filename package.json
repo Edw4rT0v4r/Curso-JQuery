@@ -1,0 +1,26 @@
+{
+  "name": "curso-jquery",
+  "version": "1.0.0",
+  "description": "100 trucos de jquery",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edw4rT0v4r/Curso-JQuery.git"
+  },
+  "author": "Edwar Tovar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edw4rT0v4r/Curso-JQuery/issues"
+  },
+  "homepage": "https://github.com/Edw4rT0v4r/Curso-JQuery#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
